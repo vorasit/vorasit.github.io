@@ -1,2 +1,3 @@
-# vorasit.github.io
-Hello World
+theme: jekyll-theme-minimal
+title: Vorasit homepage
+description: Bookmark this to keep an eye on my project updates!
